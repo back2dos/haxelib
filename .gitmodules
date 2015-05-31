@@ -1,0 +1,3 @@
+[submodule "lib/mcli"]
+	path = lib/mcli
+	url = https://github.com/waneck/mcli

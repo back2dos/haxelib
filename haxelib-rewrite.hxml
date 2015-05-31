@@ -1,0 +1,5 @@
+-cp src
+-cp lib/mcli
+-neko bin/haxelib-rewrite.n
+-main Main
+lib/mcli/extraParams.hxml
